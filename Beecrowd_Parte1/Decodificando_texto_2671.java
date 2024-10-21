@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class Decodificando_texto_2671 {
     private static final int MAX_N = 200;
 
