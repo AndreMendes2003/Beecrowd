@@ -4,7 +4,6 @@
 
 #define MAX_N 200
 
-
 // Função para decodificar o texto
 void decodeText(int N, char *encodedText) {
     // Encontrar o número máximo de níveis completos da árvore
